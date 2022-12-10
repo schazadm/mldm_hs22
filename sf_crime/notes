@@ -1,0 +1,17 @@
+FEATURES:
+Allgemein Strings to Nummern oder Binary values umwandeln
+
+y gewichten, da es labels gibt, die mehr vorkommen
+extra features löschen
+duplikate entfernen
+outlier: y-koord löschen oder ersetzen
+alle features normalisieren
+x und y koord clustern, damit man distrikte hat anstatt koordinaten
+Art von Strassen, Kreuzung, Gasse oder Autobahn
+Zeit zu Tag oder Nacht umwandeln
+Jahreszeiten
+
+
+MODEL:
+mehrere Modelle verwenden ---> ensemble
+Metrik gemäss Kaggle
