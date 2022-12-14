@@ -1,5 +1,7 @@
 FEATURES:
 Allgemein Strings to Nummern oder Binary values umwandeln
+-> vlt. keras preprocessing library nutzen
+
 
 y gewichten, da es labels gibt, die mehr vorkommen
 extra features löschen
