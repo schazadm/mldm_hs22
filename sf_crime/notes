@@ -1,15 +1,19 @@
 FEATURES:
-Allgemein Strings to Nummern oder Binary values umwandeln
+Allgemein Strings to Nummern oder Binary values umwandeln ---> One Hot Encoding noch erklären
 -> vlt. keras preprocessing library nutzen
 
+One-Hot-Encoding
+Bag-of-Words
+TF-IDF
 
-y gewichten, da es labels gibt, die mehr vorkommen
-extra features löschen
+
+y gewichten, da es labels gibt, die mehr vorkommen - stratification done
+extra features löschen - done
 duplikate entfernen
-outlier: y-koord löschen oder ersetzen
+
 alle features normalisieren
 x und y koord clustern, damit man distrikte hat anstatt koordinaten
-Art von Strassen, Kreuzung, Gasse oder Autobahn
+Art von Strassen, Kreuzung, Gasse oder Autobahn - done
 Zeit zu Tag oder Nacht umwandeln
 Jahreszeiten
 
@@ -17,3 +21,10 @@ Jahreszeiten
 MODEL:
 mehrere Modelle verwenden ---> ensemble
 Metrik gemäss Kaggle
+
+
+------
+
+open:
+
+outlier: y-koord löschen oder ersetzen , falsche koordinaten löschen
